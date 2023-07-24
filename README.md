@@ -1,4 +1,5 @@
 # Recess Project Template
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ![Project Logo](./resources/images/project_logo.png)
 
