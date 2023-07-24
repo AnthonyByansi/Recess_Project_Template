@@ -13,7 +13,7 @@
 - [License](#license)
 
 ## Introduction
-Welcome to the Recess Project Template! This repository serves as a structured template for students working on their recess projects in groups of five. It provides guidelines and a well-organized file structure to help you efficiently collaborate, manage your individual work, and deliver successful group projects.
+Welcome to the Recess Project Template! This repository serves as a structured template for working on your `recess projects` in `groups of five`. It provides guidelines and a well-organized file structure to help you efficiently collaborate, manage your individual work, and deliver successful group projects.
 
 ![Collaboration](./resources/images/collaboration.jpg)
 
@@ -50,5 +50,3 @@ If you want to contribute to this project template or suggest improvements, plea
 This project is licensed under the [MIT License](./LICENSE). Feel free to use and modify this template for your own recess projects.
 
 ---
-
-By following this template and using GitHub's collaborative features, we hope you have a productive and rewarding recess term, creating amazing projects with your fellow students!
