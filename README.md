@@ -26,19 +26,19 @@ Find detailed project documentation in the [docs](Recess_Project_Template/docs) 
 
 Submit your final project reports and group presentation in the [reports](Recess_Project_Template/reports) folder:
 
-- Individual project reports: [reports/report_Student1.pdf](reports/report_Student1.pdf) - [reports/report_Student5.pdf](reports/report_Student5.pdf)
-- Group presentation: [reports/group_presentation.pptx](reports/group_presentation.pptx)
+- Individual project reports: [reports/report_Student1.pdf](Recess_Project_Template/reports/report_Student1.pdf) - [reports/report_Student5.pdf](Recess_Project_Template/reports/report_Student5.pdf)
+- Group presentation: [reports/group_presentation.pptx](Recess_Project_Template/reports/group_presentation.pptx)
 
 ## Resources
-The [resources](./resources) folder contains additional resources for the project, including:
-- [Images](./resources/images): Store images related to your project (e.g., diagrams, graphics).
-- [Datasets](./resources/datasets): If applicable, keep datasets used in your project for reproducibility.
+The [resources](Recess_Project_Template/resources) folder contains additional resources for the project, including:
+- [Images](Recess_Project_Template/resources/images): Store images related to your project (e.g., diagrams, graphics).
+- [Datasets](Recess_Project_Template/resources/datasets): If applicable, keep datasets used in your project for reproducibility.
 
 ## Getting Started
 To begin your recess project, use the `"Use this template"` button to create your individual project repository based on this template. Follow these steps to get started:
 
 1. Clone your individual project repository to your local machine.
-2. Collaborate with your group members on the group project within the [src/group_work](./src/group_work) folder.
+2. Collaborate with your group members on the group project within the [src/group_work](Recess_Project_Template/src/group_work) folder.
 3. Work on your individual contributions within your respective folders in [src/individual_work](./src/individual_work).
 4. Regularly commit and push changes to your repository.
 5. Create pull requests for group project changes and get feedback from your team.
