@@ -1,7 +1,5 @@
 # Recess_Project_Template
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 ## Overview
 
 Welcome to the Recess_Project_Template repository! This template is designed to help students organize and collaborate on their recess projects efficiently. It provides a structured environment for individual work submission and group project collaboration with a group of five students.
