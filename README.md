@@ -1,2 +1,51 @@
-# Recess_Project_Template
-A collaborative template for students' recess projects, enabling group collaboration and individual submissions using GitHub, with a structured file tree and guidelines.
+# Recess Project Template
+
+![Project Logo](./resources/images/project_logo.png)
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Documentation](#documentation)
+- [Reports and Presentations](#reports-and-presentations)
+- [Resources](#resources)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+Welcome to the Recess Project Template! This repository serves as a structured template for students working on their recess projects in groups of five. It provides guidelines and a well-organized file structure to help you efficiently collaborate, manage your individual work, and deliver successful group projects.
+
+![Collaboration](./resources/images/collaboration.jpg)
+
+## Documentation
+Find detailed project documentation in the [docs](./docs) folder. It includes:
+- [Project Overview](./docs/README.md): Get an overview of the project's goals, objectives, and how to use this template effectively.
+- [Project Guidelines](./docs/project_guidelines.md): Learn about the best practices for group collaboration, code organization, and documentation.
+
+## Reports and Presentations
+In the [reports](./reports) folder, you'll find:
+- Individual Project Reports: Students are required to upload their individual project reports in PDF format with the naming convention "report_StudentX.pdf".
+- Group Presentation: The final group project presentation should be uploaded as "group_presentation.pptx".
+
+## Resources
+The [resources](./resources) folder contains additional resources for the project, including:
+- [Images](./resources/images): Store images related to your project (e.g., diagrams, graphics).
+- [Datasets](./resources/datasets): If applicable, keep datasets used in your project for reproducibility.
+
+## Getting Started
+To begin your recess project, use the "Use this template" button to create your individual project repository based on this template. Follow these steps to get started:
+
+1. Clone your individual project repository to your local machine.
+2. Collaborate with your group members on the group project within the [src/group_work](./src/group_work) folder.
+3. Work on your individual contributions within your respective folders in [src/individual_work](./src/individual_work).
+4. Regularly commit and push changes to your repository.
+5. Create pull requests for group project changes and get feedback from your team.
+
+## Contributing
+If you want to contribute to this project template or suggest improvements, please follow the guidelines outlined in [CONTRIBUTING.md](./CONTRIBUTING.md). We welcome your contributions and value your feedback!
+
+## License
+This project is licensed under the [MIT License](./LICENSE). Feel free to use and modify this template for your own recess projects.
+
+---
+
+By following this template and using GitHub's collaborative features, we hope you have a productive and rewarding recess term, creating amazing projects with your fellow students!
