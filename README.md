@@ -35,7 +35,7 @@ The [resources](./resources) folder contains additional resources for the projec
 - [Datasets](./resources/datasets): If applicable, keep datasets used in your project for reproducibility.
 
 ## Getting Started
-To begin your recess project, use the "Use this template" button to create your individual project repository based on this template. Follow these steps to get started:
+To begin your recess project, use the `"Use this template"` button to create your individual project repository based on this template. Follow these steps to get started:
 
 1. Clone your individual project repository to your local machine.
 2. Collaborate with your group members on the group project within the [src/group_work](./src/group_work) folder.
