@@ -24,7 +24,7 @@ Find detailed project documentation in the [docs](Recess_Project_Template/docs) 
   
 - ## Reports and Presentations
 
-Submit your final project reports and group presentation in the [reports](reports) folder:
+Submit your final project reports and group presentation in the [reports](Recess_Project_Template/reports) folder:
 
 - Individual project reports: [reports/report_Student1.pdf](reports/report_Student1.pdf) - [reports/report_Student5.pdf](reports/report_Student5.pdf)
 - Group presentation: [reports/group_presentation.pptx](reports/group_presentation.pptx)
