@@ -18,7 +18,7 @@ Welcome to the Recess Project Template! This repository serves as a structured t
 ![Collaboration](./resources/images/collaboration.jpg)
 
 ## Documentation
-Find detailed project documentation in the [docs](./docs) folder. It includes:
+Find detailed project documentation in the [docs](Recess_Project_Template/docs) folder. It includes:
 - [Project Overview](./docs/README.md): Get an overview of the project's goals, objectives, and how to use this template effectively.
 - [Project Guidelines](./docs/project_guidelines.md): Learn about the best practices for group collaboration, code organization, and documentation.
   
