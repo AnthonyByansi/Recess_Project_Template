@@ -21,11 +21,13 @@ Welcome to the Recess Project Template! This repository serves as a structured t
 Find detailed project documentation in the [docs](./docs) folder. It includes:
 - [Project Overview](./docs/README.md): Get an overview of the project's goals, objectives, and how to use this template effectively.
 - [Project Guidelines](./docs/project_guidelines.md): Learn about the best practices for group collaboration, code organization, and documentation.
+  
+- ## Reports and Presentations
 
-## Reports and Presentations
-In the [reports](./reports) folder, you'll find:
-- Individual Project Reports: Students are required to upload their individual project reports in PDF format with the naming convention "report_StudentX.pdf".
-- Group Presentation: The final group project presentation should be uploaded as "group_presentation.pptx".
+Submit your final project reports and group presentation in the [reports](reports) folder:
+
+- Individual project reports: [reports/report_Student1.pdf](reports/report_Student1.pdf) - [reports/report_Student5.pdf](reports/report_Student5.pdf)
+- Group presentation: [reports/group_presentation.pptx](reports/group_presentation.pptx)
 
 ## Resources
 The [resources](./resources) folder contains additional resources for the project, including:
