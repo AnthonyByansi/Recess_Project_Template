@@ -51,7 +51,9 @@ branchC --> pullRequest
 
 pullRequest --> Repo
 ```
+
 ---
+>> Note: Each Group member has to Own a Branch named as his/her name 
 
 ## Documentation
 Find detailed project documentation in the [docs](Recess_Project_Template/docs) folder. It includes:
