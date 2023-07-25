@@ -81,12 +81,12 @@ To begin your recess project, use the `"Use this template"` button to create you
 4. Regularly commit and push changes to your repository.
 5. Create pull requests for group project changes and get feedback from your team.
 
-## Contributing
-If you want to contribute to this project template or suggest improvements, please follow the guidelines outlined in [CONTRIBUTING.md](./CONTRIBUTING.md). We welcome your contributions and value your feedback!
-
 ## ❗️ Note:
 - The project will run for 2 weeks starting on 24th July 2022 to 11th August 2023 till 11:59 pm.
 - Email us: jeff.geoff.cis@gmail.com cc. ndigezzalivingstone2@gmail.com and send us the link for the GitHub Repository!
+
+## Contributing
+If you want to contribute to this project template or suggest improvements, please follow the guidelines outlined in [CONTRIBUTING.md](./CONTRIBUTING.md). We welcome your contributions and value your feedback!
 
 ## License
 This project is licensed under the [MIT License](./LICENSE). Feel free to use and modify this template for your own recess projects.
