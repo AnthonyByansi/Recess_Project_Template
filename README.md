@@ -15,7 +15,43 @@
 ## Introduction
 Welcome to the Recess Project Template! This repository serves as a structured template for working on your `recess projects` in `groups of five`. It provides guidelines and a well-organized file structure to help you efficiently collaborate, manage your individual work, and deliver successful group projects.
 
-![Collaboration](./resources/images/collaboration.jpg)
+### Collaboration Process
+```mermaid
+flowchart LR
+
+subgraph "Repository"
+  Repo((Repository))
+end
+
+subgraph "User A"
+  fork[Fork]
+  branchA[Branch A]
+end
+
+subgraph "User B"
+  branchB[Branch B]
+end
+
+subgraph "User C"
+  branchC[Branch C]
+end
+
+subgraph "Pull Request"
+  pullRequest[Pull Request]
+end
+
+Repo --> fork
+fork --> branchA
+fork --> branchB
+fork --> branchC
+
+branchA --> pullRequest
+branchB --> pullRequest
+branchC --> pullRequest
+
+pullRequest --> Repo
+```
+---
 
 ## Documentation
 Find detailed project documentation in the [docs](Recess_Project_Template/docs) folder. It includes:
